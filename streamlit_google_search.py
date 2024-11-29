@@ -90,3 +90,4 @@ if st.button("Run Search"):
                 )
     else:
         st.warning("Please enter both positions and industries.")
+
